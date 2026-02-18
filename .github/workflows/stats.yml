@@ -1,8 +1,11 @@
 name: generateStats
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs every 24 hours
-  workflow_dispatch: # Lets you run it manually for testing
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -13,7 +16,7 @@ jobs:
       - name: generateLanguageStats
         uses: readme-tools/github-readme-stats-action@v1
         with:
-          card: langs
+          card: top-langs
           path: assets/languages.svg
           options: username=vibrant-impact&layout=compact&theme=vibrant
           token: ${{ secrets.GH_TOKEN }}
