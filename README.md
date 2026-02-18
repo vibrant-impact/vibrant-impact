@@ -34,6 +34,6 @@
 </p>
 
 ## 🚀 Featured Projects
-- **[Vibrant Impact Poster Generator](./vibrant-impact-poster-generator)**: A tool merging design and code.
-- **[Cloudgarden Interiors](./Cloudgarden_Interiors)**: Exploring biophilic design in web layouts.
-- **[Custom Music](./custom-music)**: Creative assets built for inspiration and connection.
+- **[Vibrant Impact Poster Generator](https://vibrant-impact-poster-generator.vercel.app/)**: A tool merging design and code.
+- **[Cloudgarden Interiors](https://vibrant-impact.github.io/Cloudgarden_Interiors/)**: Exploring biophilic design in web layouts.
+- **[Custom Music](https://vibrant-impact.github.io/custom-music/)**: Creative assets built for inspiration and connection.
