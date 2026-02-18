@@ -28,8 +28,10 @@
   <img src="./assets/languages.svg" alt="Top Languages" />
 </p>
 
-## My Contribution
-
+## 🐍 My Contribution Snake
+<p align="center">
+  <img src="./assets/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
 
 ## 🚀 Featured Projects
 - **[Vibrant Impact Poster Generator](./vibrant-impact-poster-generator)**: A tool merging design and code.
