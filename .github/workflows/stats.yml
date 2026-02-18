@@ -1,0 +1,36 @@
+name: generateStats
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs every 24 hours
+  workflow_dispatch: # Lets you run it manually for testing
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: generateLanguageStats
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: langs
+          path: assets/languages.svg
+          options: username=vibrant-impact&layout=compact&theme=vibrant
+          token: ${{ secrets.GH_TOKEN }}
+
+      - name: generateGeneralStats
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          path: assets/stats.svg
+          options: username=vibrant-impact&show_icons=true&theme=vibrant
+          token: ${{ secrets.GH_TOKEN }}
+
+      - name: commitAndPush
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          mkdir -p assets
+          git add assets/*.svg
+          git commit -m "update profile widgets" || exit 0
+          git push
