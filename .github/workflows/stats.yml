@@ -18,11 +18,8 @@ jobs:
         with:
           card: top-langs
           path: assets/languages.svg
-          # Formatting parameters individually to avoid "border_color" errors
-          options: >-
-            username=vibrant-impact
-            &layout=compact
-            &theme=vibrant
+          # Using quotes and simple ampersands to prevent the undefined error
+          options: "username=vibrant-impact&layout=compact&theme=vibrant"
           token: ${{ secrets.GH_TOKEN }}
 
       - name: generateGeneralStats
@@ -30,10 +27,7 @@ jobs:
         with:
           card: stats
           path: assets/stats.svg
-          options: >-
-            username=vibrant-impact
-            &show_icons=true
-            &theme=vibrant
+          options: "username=vibrant-impact&show_icons=true&theme=vibrant"
           token: ${{ secrets.GH_TOKEN }}
 
       - name: commitAndPush
@@ -42,5 +36,5 @@ jobs:
           git config user.email "github-actions@users.noreply.github.com"
           mkdir -p assets
           git add assets/*.svg
-          git commit -m "style profile widgets with vibrant theme" || exit 0
+          git commit -m "style: apply vibrant theme to widgets" || exit 0
           git push
