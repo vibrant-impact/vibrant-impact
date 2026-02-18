@@ -18,7 +18,7 @@ jobs:
         with:
           card: top-langs
           path: assets/languages.svg
-          options: username=vibrant-impact&layout=compact&theme=vibrant
+          options: username=vibrant-impact
           token: ${{ secrets.GH_TOKEN }}
 
       - name: generateGeneralStats
@@ -26,7 +26,7 @@ jobs:
         with:
           card: stats
           path: assets/stats.svg
-          options: username=vibrant-impact&show_icons=true&theme=vibrant
+          options: username=vibrant-impact
           token: ${{ secrets.GH_TOKEN }}
 
       - name: commitAndPush
