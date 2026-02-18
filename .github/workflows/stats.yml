@@ -18,8 +18,11 @@ jobs:
         with:
           card: top-langs
           path: assets/languages.svg
-          # Adding the vibrant theme and compact layout
-          options: username=vibrant-impact&layout=compact&theme=vibrant
+          # Formatting parameters individually to avoid "border_color" errors
+          options: >-
+            username=vibrant-impact
+            &layout=compact
+            &theme=vibrant
           token: ${{ secrets.GH_TOKEN }}
 
       - name: generateGeneralStats
@@ -27,8 +30,10 @@ jobs:
         with:
           card: stats
           path: assets/stats.svg
-          # Adding the vibrant theme and icons
-          options: username=vibrant-impact&show_icons=true&theme=vibrant
+          options: >-
+            username=vibrant-impact
+            &show_icons=true
+            &theme=vibrant
           token: ${{ secrets.GH_TOKEN }}
 
       - name: commitAndPush
