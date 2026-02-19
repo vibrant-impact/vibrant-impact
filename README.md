@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/github-banner.jpg" width="100%" alt="Vibrant Impact Banner" />
+</p>
+
 # Hi there, I'm Stephanie! 👋 
 ### Graphic Designer | Full-Stack Coding Student | AI Enthusiast
 
@@ -14,7 +18,8 @@
 * 🏠 Based in a small town, preparing for a city internship in 2027.
 * 🔮 Interests: Spirituality, health, and biophilic design.
 
-### 🛠 Tech Stack
+## 🛠 Tech Stack
+
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
