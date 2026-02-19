@@ -18,8 +18,7 @@ jobs:
         with:
           card: top-langs
           path: assets/languages.svg
-          # Simpler syntax to avoid the 'border_color' bug
-          options: username=vibrant-impact&layout=compact&theme=radical
+          options: username=vibrant-impact&layout=compact&theme=radical&hide_border=true
           token: ${{ secrets.GH_TOKEN }}
 
       - name: generateGeneralStats
@@ -27,7 +26,15 @@ jobs:
         with:
           card: stats
           path: assets/stats.svg
-          options: username=vibrant-impact&show_icons=true&theme=radical
+          options: username=vibrant-impact&show_icons=true&theme=radical&hide_border=true
+          token: ${{ secrets.GH_TOKEN }}
+
+      - name: generateStreakStats
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: streak
+          path: assets/streak.svg
+          options: username=vibrant-impact&theme=radical&hide_border=true
           token: ${{ secrets.GH_TOKEN }}
 
       - name: commitAndPush
@@ -36,5 +43,5 @@ jobs:
           git config user.email "github-actions@users.noreply.github.com"
           mkdir -p assets
           git add assets/*.svg
-          git commit -m "style: apply radical dark theme" || exit 0
+          git commit -m "style: final dark mode widgets" || exit 0
           git push
