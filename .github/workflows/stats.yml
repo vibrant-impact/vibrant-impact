@@ -13,22 +13,21 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       
-      # Dark Mode Stats
-      - name: generateDarkStats
+      - name: generateLanguageStats
         uses: readme-tools/github-readme-stats-action@v1
         with:
-          card: stats
-          path: assets/stats-dark.svg
-          options: "username=vibrant-impact&theme=radical&hide_border=true"
+          card: top-langs
+          path: assets/languages.svg
+          # Simpler syntax to avoid the 'border_color' bug
+          options: username=vibrant-impact&layout=compact&theme=radical
           token: ${{ secrets.GH_TOKEN }}
 
-      # Light Mode Stats
-      - name: generateLightStats
+      - name: generateGeneralStats
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          path: assets/stats-light.svg
-          options: "username=vibrant-impact&theme=vibrant&hide_border=true"
+          path: assets/stats.svg
+          options: username=vibrant-impact&show_icons=true&theme=radical
           token: ${{ secrets.GH_TOKEN }}
 
       - name: commitAndPush
@@ -37,5 +36,5 @@ jobs:
           git config user.email "github-actions@users.noreply.github.com"
           mkdir -p assets
           git add assets/*.svg
-          git commit -m "update responsive stats" || exit 0
+          git commit -m "style: apply radical dark theme" || exit 0
           git push
