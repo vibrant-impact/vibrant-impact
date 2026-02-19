@@ -47,3 +47,28 @@
 - **[Vibrant Impact Poster Generator](https://vibrant-impact-poster-generator.vercel.app/)**: A tool merging design and code.
 - **[Cloudgarden Interiors](https://vibrant-impact.github.io/Cloudgarden_Interiors/)**: Exploring biophilic design in web layouts.
 - **[Custom Music](https://vibrant-impact.github.io/custom-music/)**: Creative assets built for inspiration and connection.
+
+---
+
+## 🤝 Connect with Me
+
+<p align="left">
+<a href="mailto:stephotteson@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://www.fiverr.com/vibrantimpact" target="_blank">
+  <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" />
+</a>
+<a href="https://www.linkedin.com/in/stephanie-otteson" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://www.youtube.com/@VeyraJewel" target="_blank">
+  <img src="https://img.shields.io/badge/Creative_Portfolio-Veyra_Jewel-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Personal Channel" />
+</a>
+<a href="https://open.spotify.com/artist/5Xo06Pz7P4VfV4A9F2YjMv" target="_blank">
+  <img src="https://img.shields.io/badge/Official_Music-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Veyra Jewel Spotify" />
+</a>
+</a>
+</p>
+
+> **Currently seeking:** A 4-month Web Development Internship starting February 2027. Now open to freelance graphic design and custom music projects!
