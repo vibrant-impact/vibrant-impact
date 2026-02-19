@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="./assets/github-banner.jpg" width="100%" alt="Vibrant Impact Banner" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-banner.jpg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/github-banner-light.jpg">
+    <img alt="Vibrant Impact Banner" src="./assets/github-banner-light.jpg" width="100%">
+  </picture>
 </p>
 
 # Hi there, I'm Stephanie! 👋 
