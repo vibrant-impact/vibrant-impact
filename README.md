@@ -12,7 +12,7 @@
 ---
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=vibrant-impact&theme=vibrant" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=vibrant-impact&theme=radical&hide_border=true" alt="Streak Stats" />
 </p>
 
 ---
