@@ -9,6 +9,8 @@
 # Hi there, I'm Stephanie! 👋 
 ### Graphic Designer | Full-Stack Coding Student | AI Enthusiast
 
+---
+
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=vibrant-impact&theme=vibrant" alt="Streak Stats" />
 </p>
@@ -33,13 +35,12 @@
 
 ## 📊 My Coding Activity
 <p align="center">
-  <img src="./assets/stats.svg" alt="General Stats" />
-  <img src="./assets/languages.svg" alt="Top Languages" />
+  <img src="./assets/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
-## 🐍 My Contribution Snake
 <p align="center">
-  <img src="./assets/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="./assets/stats.svg" alt="General Stats" />
+  <img src="./assets/languages.svg" alt="Top Languages" />
 </p>
 
 ## 🚀 Featured Projects
