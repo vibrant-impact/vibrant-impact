@@ -1,9 +1,9 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-banner.jpg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/github-banner-light.jpg">
-    <img alt="Vibrant Impact Banner" src="./assets/github-banner-light.jpg" width="100%">
-  </picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/vi-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/vi-light.png">
+    <img alt="Vibrant Impact Logo" src="assets/vi-light.jpg" width="40%">
+  </picture><img src="assets/bars4.gif" width="100%" alt="Vibrant Audio Visualizer">
 </p>
 
 # Hi there, I'm Stephanie! 👋 
