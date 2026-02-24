@@ -55,28 +55,23 @@
 
 ---
 
-### 🎵 Now Playing
-[![Spotify](https://novatorem-spotify-readme.vercel.app/api/now-playing?1LohaABEdFPnfaEZTrEXoW?si=HS2CnkomQym4mW3TJE-lSA)](https://open.spotify.com/user/1LohaABEdFPnfaEZTrEXoW?si=HS2CnkomQym4mW3TJE-lSA)
-
----
-
 ## 🤝 Connect with Me
+
 <p align="left">
 <a href="mailto:stephotteson@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-f2206f?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://www.fiverr.com/vibrantimpact" target="_blank">
-  <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" />
+  <img src="https://img.shields.io/badge/Fiverr-83be41?style=for-the-badge&logo=fiverr&logoColor=black" alt="Fiverr" />
 </a>
 <a href="https://www.linkedin.com/in/stephanie-otteson" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-00a1da?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://www.youtube.com/@VeyraJewel" target="_blank">
-  <img src="https://img.shields.io/badge/Creative_Portfolio-Veyra_Jewel-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Personal Channel" />
+  <img src="https://img.shields.io/badge/Creative_Portfolio-f20f24?style=for-the-badge&logo=youtube&logoColor=white" alt="Personal Channel" />
 </a>
-<a href="https://open.spotify.com/artist/5Xo06Pz7P4VfV4A9F2YjMv" target="_blank">
-  <img src="https://img.shields.io/badge/Official_Music-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Veyra Jewel Spotify" />
-</a>
+<a href="https://open.spotify.com/artist/1LohaABEdFPnfaEZTrEXoW" target="_blank">
+  <img src="https://img.shields.io/badge/Official_Music-882382?style=for-the-badge&logo=spotify&logoColor=white" alt="Veyra Jewel Spotify" />
 </a>
 </p>
 
