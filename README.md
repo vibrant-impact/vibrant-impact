@@ -55,8 +55,12 @@
 
 ---
 
-## 🤝 Connect with Me
+### 🎵 Now Playing
+[![Spotify](https://novatorem-spotify-readme.vercel.app/api/now-playing?1LohaABEdFPnfaEZTrEXoW?si=HS2CnkomQym4mW3TJE-lSA)](https://open.spotify.com/user/1LohaABEdFPnfaEZTrEXoW?si=HS2CnkomQym4mW3TJE-lSA)
 
+---
+
+## 🤝 Connect with Me
 <p align="left">
 <a href="mailto:stephotteson@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
