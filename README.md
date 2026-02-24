@@ -27,10 +27,15 @@
 ## 🛠 Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/javaScript-83be41?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/gitHub-ffee31?style=for-the-badge&logo=github&logoColor=black" />
+  <img src="https://img.shields.io/badge/vSCode-00a1da?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <br />
+  <img src="https://img.shields.io/badge/figma-f2206f?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/adobe-f20f24?style=for-the-badge&logo=adobe&logoColor=white" />
+  <img src="https://img.shields.io/badge/creative-fd872a?style=for-the-badge&logo=canva&logoColor=white" />
+  <br />
+  <img src="https://img.shields.io/badge/health-882382?style=for-the-badge&logo=health&logoColor=white" />
 </p>
 
 ## 📊 My Coding Activity
