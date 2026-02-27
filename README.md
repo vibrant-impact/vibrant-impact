@@ -6,7 +6,7 @@
   </picture><img src="assets/vibrantAudioVisualizer.gif" width="100%" alt="Vibrant Audio Visualizer">
 </p>
 
-# Hi there, I'm Stephanie! 👋 
+# Hi, I'm Stephanie! 👋 
 ### Graphic Designer | Full-Stack Coding Student | AI Enthusiast
 
 ---
@@ -28,15 +28,27 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/javaScript-83be41?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/css-fd872a?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/html-882382?style=for-the-badge&logo=html&logoColor=white" />
   <img src="https://img.shields.io/badge/gitHub-ffee31?style=for-the-badge&logo=github&logoColor=black" />
   <img src="https://img.shields.io/badge/vSCode-00a1da?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <br />
   <img src="https://img.shields.io/badge/figma-f2206f?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/adobe-f20f24?style=for-the-badge&logo=adobe&logoColor=white" />
-  <img src="https://img.shields.io/badge/creative-fd872a?style=for-the-badge&logo=canva&logoColor=white" />
-  <br />
-  <img src="https://img.shields.io/badge/health-882382?style=for-the-badge&logo=health&logoColor=white" />
+  <img src="https://img.shields.io/badge/linux-fd872a?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/AIprompting-882382?style=for-the-badge&logo=AIprompting&logoColor=white" />
 </p>
+
+## 🌟 Core Strengths & Interests
+
+<p align="left">
+  <img src="https://img.shields.io/badge/creativity-83be41?style=for-the-badge&logo=creativity&logoColor=white" />
+  <img src="https://img.shields.io/badge/spirituality-fd872a?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/health-882382?style=for-the-badge&logo=health&logoColor=white" />
+  <img src="https://img.shields.io/badge/troubleshooter-ffee31?style=for-the-badge&logo=troubleshooter&logoColor=black" />
+  <img src="https://img.shields.io/badge/inspired-00a1da?style=for-the-badge&logo=inspired&logoColor=white" />
+  <img src="https://img.shields.io/badge/efficient-f2206f?style=for-the-badge&logo=efficient&logoColor=white" />
+  <img src="https://img.shields.io/badge/meticulous-f20f24?style=for-the-badge&logo=meticulous&logoColor=white" />
+</p>  
 
 ## 📊 My Coding Activity
 <p align="center">
