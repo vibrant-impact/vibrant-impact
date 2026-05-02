@@ -20,10 +20,10 @@
 ## 💫 About Me
 * 🎓 **Graphic Design Graduate** transitioning into Web & Mobile Development.
 * 🤖 **AI Enthusiast** exploring how to merge creativity with automation.
-* 💻 Code Style: descriptiveFullWords, camelCase, & Hex Precision.
+* 💻 **Code Style:** descriptiveFullWords, camelCase, & Hex Precision.
 * ⚡ **Goal:** Building reliable income through digital pursuits and creative tech.
 * 🏠 Based in a small town, preparing for a city internship in 2027.
-* 🌿 Interests: Health, Spirituality, & Human-Centric Tech.
+* 🌿 **Interests:** Health, Spirituality, & Human-Centric Tech.
 
 ## 🛠 Tech Stack
 
