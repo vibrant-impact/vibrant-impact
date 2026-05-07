@@ -39,6 +39,7 @@
   <img src="https://img.shields.io/badge/adobe-f20f24?style=for-the-badge&logo=adobe&logoColor=white" />
   <img src="https://img.shields.io/badge/linux-fd872a?style=for-the-badge&logo=canva&logoColor=white" />
   <img src="https://img.shields.io/badge/AIprompting-882382?style=for-the-badge&logo=AIprompting&logoColor=white" />
+  <img src="https://img.shields.io/badge/wordpress-ffee31?style=for-the-badge&logo=wordpress&logoColor=black" />
 </p>
 
 ## 🌟 Core Strengths & Interests
