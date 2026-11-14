@@ -29,7 +29,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/javaScript-83be41?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/css-fd872a?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/css-fd872a?style=for-the-badge&logo=css&logoColor=white" />
   <img src="https://img.shields.io/badge/html-882382?style=for-the-badge&logo=html&logoColor=white" />
   <img src="https://img.shields.io/badge/java-f2206f?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/typescript-83be41?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -38,10 +38,11 @@
   <img src="https://img.shields.io/badge/figma-f2206f?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/swift-ffee31?style=for-the-badge&logo=swift&logoColor=black" />
   <img src="https://img.shields.io/badge/adobe-f20f24?style=for-the-badge&logo=adobe&logoColor=white" />
-  <img src="https://img.shields.io/badge/linux-fd872a?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/linux-fd872a?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/AIprompting-882382?style=for-the-badge&logo=AIprompting&logoColor=white" />
   <img src="https://img.shields.io/badge/wordpress-ffee31?style=for-the-badge&logo=wordpress&logoColor=black" />
   <img src="https://img.shields.io/badge/kotlin-83be41?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/android-fd872a?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/intellij-00a1da?style=for-the-badge&logo=intellij&logoColor=white" />
 </p>
 
