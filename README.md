@@ -32,6 +32,7 @@
   <img src="https://img.shields.io/badge/css-fd872a?style=for-the-badge&logo=canva&logoColor=white" />
   <img src="https://img.shields.io/badge/html-882382?style=for-the-badge&logo=html&logoColor=white" />
   <img src="https://img.shields.io/badge/java-f2206f?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/typescript-83be41?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/gitHub-ffee31?style=for-the-badge&logo=github&logoColor=black" />
   <img src="https://img.shields.io/badge/vSCode-00a1da?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/figma-f2206f?style=for-the-badge&logo=figma&logoColor=white" />
